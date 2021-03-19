@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ryanjvice
+- 👀 I’m interested in web development & web application development.
+- 🌱 I’m currently learning Angular, Typescript & PHP.
+- 💞️ I’m looking to collaborate on start-up web application ideas.
+- 📫 How to reach me: chivemind@protonmail.ch
