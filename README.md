@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanjvice
-- 👀 I’m interested in web3 development & progressive web application development.
-- 🌱 I’m currently learning javascript, React & Solidity.
-- 💞️ I’m looking to collaborate on start-up web application ideas.
-- 📫 How to reach me: chivemind@protonmail.ch
+- 👀 I’m interested in game and web app development, web3 development & AI.
+- 🌱 I’m currently enrolled in an Informatics progroam. I'm also learning how to work with Unreal Engine, React & Solidity.
+- 💞️ I’m looking to collaborate on game dev & web app ideas
+- 📫 How to reach me: ryanjvice@gmail.com
