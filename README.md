@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanjvice
 - 👀 I’m interested in game and web app development, web3 development & AI.
-- 🌱 I’m currently enrolled in an Informatics progroam. I'm also learning how to work with Unreal Engine/C++, Python, React & Solidity.
+- 🌱 I’m learning how to work with PhaserJS, Unity Engine/C#, Python, Vue & Solidity.
 - 💞️ I’m looking to collaborate on game dev & web app ideas
 - 📫 How to reach me: ryanjvice@gmail.com
